@@ -7,6 +7,9 @@ interface I1 {
 interface I2{
     void output();
 }
+interface I3 {
+    void method();
+}
 
 class B1 implements I1,I2 {
     public void show(){
