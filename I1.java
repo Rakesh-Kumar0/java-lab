@@ -1,6 +1,6 @@
 interface I1{
     int a = 10;
-    void show();
+    public void show();
     void dispaly();
 }
 class B1 implements I1 {
