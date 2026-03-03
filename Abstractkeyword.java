@@ -4,6 +4,7 @@ abstract class Car{
     
     public void playMusic(){
         System.out.println("play music");
+        System.out.println("play good music");
     }
 }
 class WagonR extends Car{
